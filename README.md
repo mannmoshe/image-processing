@@ -1,2 +1,2 @@
 # image-processing
-hough transform: line detection project
+hough transform: line detection project.
