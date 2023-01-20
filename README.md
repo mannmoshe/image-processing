@@ -1,2 +1,2 @@
 # image-processing
-hough transform: line detection project in event-based camera recordings.
+hough transform: line detection project on event-based camera recordings.
